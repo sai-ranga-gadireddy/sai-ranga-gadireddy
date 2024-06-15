@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sai Ranganath Gadireddy</h1>
 <h3 align="center">Aspiring backend developer & AWS Cerified Professional from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sairangagadireddy&label=Profile%20views&color=0e75b6&style=flat" alt="sairangagadireddy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-ranga-gadireddy&label=Profile%20views&color=0e75b6&style=flat" alt="sai-ranga-gadireddy" /> </p> 
+
+<a href="https://instagram.com/sairanga_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sairanga_27" height="30" width="40" /></a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sairangagadireddy" alt="sairangagadireddy" /></a> </p>
 
