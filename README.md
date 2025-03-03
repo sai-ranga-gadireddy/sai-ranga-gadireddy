@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-ranga-gadireddy" alt="sai-ranga-gadireddy" /></a> </p>
 
-- 🌱 I’m currently learning **AWS,Azure,MongoDB,**
+- 🌱 I’m currently learning **Wordpress,SEO,Google Ads**
 
 - 💬 Ask me about **AWS,Python,SEO**
 
