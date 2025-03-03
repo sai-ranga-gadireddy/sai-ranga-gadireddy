@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Ranganath Gadireddy</h1>
-<h3 align="center">Aspiring backend developer & AWS Cerified Professional from India</h3>
+<h3 align="center">Aspiring Digital Marketer & AWS Cerified Professional from India</h3>
 <img align="right" alt="coding" width=400 src="https://github.com/sai-ranga-gadireddy/sai-ranga-gadireddy/blob/main/Animate%20gif.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-ranga-gadireddy&label=Profile%20views&color=0e75b6&style=flat" alt="sai-ranga-gadireddy" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS,Azure,MongoDB,**
 
-- 💬 Ask me about **AWS,Python,Java**
+- 💬 Ask me about **AWS,Python,SEO**
 
 - 📫 How to reach me **sairanganathg@gmail.com**
 
